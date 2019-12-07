@@ -20,6 +20,11 @@ Foram utilizadas as tecnologias: C# (para o back), Vue (para o front), e o banco
 **Codigo Front-End:** 
 * primeiramente digite o comando:
 > 1. npm i
-> 2. tenha certeza que tudo foi instalado corretamente
+> * tenha certeza que tudo foi instalado corretamente
 * em seguida digite o comando:
-> 1. npm run dev
+> 1. npm run serve
+
+* quando o site abrir sera aberta uma tela de login
+> 1. Usuario: yuri
+> 2. Senha: 123456
+
