@@ -66,6 +66,16 @@ export default {
         icon: 'mdi-monitor',
         text: 'Home',
         divider: true
+      },
+      {
+        to: '/pagina1',
+        icon: 'mdi-monitor',
+        text: 'Pagina APIs Usuarios'
+      },
+      {
+        to: '/pagina2',
+        icon: 'mdi-monitor',
+        text: 'Pagina APIs Mensagens'
       }
     ],
     responsive: false
