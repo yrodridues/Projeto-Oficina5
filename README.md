@@ -28,3 +28,5 @@ Foram utilizadas as tecnologias: C# (para o back), Vue (para o front), e o banco
 > 1. Usuario: yuri
 > 2. Senha: 123456
 
+# Importante: 
+**Tenha certeza que o back esta executando corretamente enquanto trabalha com o front, Visto que esta aplicação é um Sistema Orientado a Serviços**
