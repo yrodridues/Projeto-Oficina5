@@ -13,7 +13,7 @@
     "chartist": "0.11.0",
     "config": "^3.1.0",
     "moment": "^2.24.0",
-    "node-sass": "^4.9.3",
+    "node-sass": "^4.13.1",
     "sass-loader": "^7.1.0",
     "v-mask": "^2.0.2",
     "vee-validate": "^2.2.11",
